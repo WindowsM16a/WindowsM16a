@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faith Cyril</h1>
 😄 Pronouns: he/him
-<h3 align="center">I am a computer engineering student in Ghana passionate about Machine Learning and Web development</h3>
+<h3 align="center">I am a student in Ghana passionate about Machine Learning and Web development</h3>
 
 - 🌱 I’m currently learning **more about the MERN stack**
 
