@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **cyrilfaith17@gmail.com**
 
-- 📄 Know about my experiences [here](https://docs.google.com/document/d/1emZchz99mymHUwf6xW0O8KkrHvYBK62A/edit?usp=sharing&ouid=105908348435194392926&rtpof=true&sd=true)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1zgqKZRXe3qXlaPN92-LLCrbkpOZ3ih5L/view?usp=share_link)
 
 - ⚡ Fun fact **I love animals and animal photography**
 
