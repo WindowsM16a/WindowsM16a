@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WindowsM16a
+- 👋 Hi, I’m Shayne Wuver (@WindowsM16a).
 - 👀 I’m interested in tech, media, nature and anything with an engine really.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on any interesting project centered around things i love or possible learning opportunities.
