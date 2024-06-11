@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on any interesting project centered around things i love or possible learning opportunities.
 - 📫 Reach me through my socials @gtmotions or @gtmotions_
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I'm a jack of many trades, master of few but often better than a master of one.
 
 <!---
