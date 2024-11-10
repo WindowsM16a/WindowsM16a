@@ -59,9 +59,7 @@
   <a href="https://github.com/windowsm16a?tab=stars">
     <img src="[(https://streak-stats.demolab.com/?user=WindowsM16a)](https://git.io/streak-stats)">
   </a>
-<!--   [![GitHub Streak](https://streak-stats.demolab.com/?user=WindowsM16a)](https://git.io/streak-stats)
-  https://github-readme-streak-stats.herokuapp.com?user=windowsm16a&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@windowm16a's github-readme-streak-stats-->
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=WindowsM16a" alt="GitHub Streak" /></a>
 <br/>
 
 <!---
