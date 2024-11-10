@@ -51,9 +51,9 @@
 
 </p>
 
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=windowsm16a&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=windowsm16a&layout=compact&count_private=true&hide_border=true&theme=blue-green&title_color=00b3ff)](#)
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/oraclebrain?tab=repositories">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=windowsm16a&theme=blue-green&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@Owindowsm16a's github-readme-stats">
   </a>
