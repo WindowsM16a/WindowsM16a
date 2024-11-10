@@ -59,7 +59,7 @@
   <a href="https://github.com/windowsm16a?tab=stars">
     <img src="[(https://streak-stats.demolab.com/?user=WindowsM16a)](https://git.io/streak-stats)">
   </a>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=WindowsM16a" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-5x8pkt4fb-shayne-wuvers-projects.vercel.app?user=WindowsM16a" alt="GitHub Streak" /></a>
 <br/>
 
 <!---
