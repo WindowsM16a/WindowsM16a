@@ -61,6 +61,8 @@
   <a href="https://github.com/windowsm16a?tab=stars">
     <img src="[(https://streak-stats.demolab.com/?user=WindowsM16a)](https://git.io/streak-stats)">
   </a> -->
+
+  [![Shayne's Streak](https://streak-stats.demolab.com/?user=windowsm16a&count_private=true&theme=blue-green&title_color=00b3ff)](#)
    
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-5x8pkt4fb-shayne-wuvers-projects.vercel.app?user=WindowsM16a&theme=blue-green&date_format=j%20M%5B%20Y%5D" /></a> 
 <br/>
