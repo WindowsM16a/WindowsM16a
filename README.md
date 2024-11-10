@@ -29,6 +29,7 @@
 <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
 <!---
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
@@ -43,11 +44,11 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 
 -->
+
 </p>
 
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=windowsm16a&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
@@ -56,13 +57,9 @@
   <a href="https://github.com/oraclebrain?tab=repositories">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=windowsm16a&theme=blue-green&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@Owindowsm16a's github-readme-stats">
   </a>
-  
-  [![Shayne's Streak](https://streak-stats.demolab.com/?user=windowsm16a&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+  <a href="https://github.com/windowsm16a?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=windowsm16a&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@windowsm16a's github-readme-streak-stats">
+  </a>
 </p>
-
-<!---
-[![Shayne's current streak](https://streak-stats.demolab.com/?user=windowsm16a&count_private=true&theme=blue-green&title_color=00b3ff)](#) 
--->
-
-
+<br/>
 
