@@ -61,6 +61,7 @@
   </a>
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-5x8pkt4fb-shayne-wuvers-projects.vercel.app?user=WindowsM16a&theme=blue-green&date_format=j%20M%5B%20Y%5D" /></a>
 <br/>
+</p>
 
 <!---
 [![Shayne's github stats](https://bad-apple-github-readme.vercel.app/api?username=windowsm16a&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#) 
