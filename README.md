@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1iXsBBjnA3gMEbSEqfmAKcwERGo_X5gzI/view?usp=sharing">here</a> 
 
-- ⚡ Fun fact **I love photography, cars and sim-racing**
+- ⚡ Fun fact **I love photography, cars and sim-racing (and irl motorsports)**
 
 <h3 align="left">Connect with me :)</h3>
 <p align="left">
