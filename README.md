@@ -7,13 +7,14 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1iXsBBjnA3gMEbSEqfmAKcwERGo_X5gzI/view?usp=sharing">here</a> 
 
-- ⚡ Fun fact **I love photography, cars and sim-racing (and irl motorsports)**
+- ⚡ Fun fact **I love photography, cars, and sim-racing (and irl motorsports)**
 
 <h3 align="left">Connect with me :)</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shaynewuver/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shaynewuver/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shaynewuver/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wuvershayne/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/wuvershayne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/wuvershayne" height="30" width="40" /></a>
 <a href="https://leetcode.com/windowsm16a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/windowsm16a/" height="30" width="40" /></a>
+<a href="https://leetcode.com/windowsm16a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@wuvershayne" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
