@@ -10,7 +10,7 @@
       Hiii, I'm Shayne Wuver
   </span>
 </h1>
-<h3 align="center">Unhealthily fixated on Web Development and Electronics and Engineering</h3> <br>
+<h3 align="center">Unhealthily fixated on <em>Engineering</em> and <em>Web Development</em> and <em>Electronics</em></h3> <br>
 
 - 🌱 I’m currently learning **Javascript**
 
@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1iXsBBjnA3gMEbSEqfmAKcwERGo_X5gzI/view?usp=sharing">here</a> 
 
-- ⚡ Fun fact I love **photography**, **cars**, and **sim-racing** (and **irl motorsports**)
+- ⚡ Fun fact I love **photography**, **cars**, and **sim-racing** (and **irl motorsports**) <br><br>
 
 <h3 align="left">Connect with me :)</h3>
 <p align="left">
@@ -26,7 +26,7 @@
   <a href="https://www.hackerrank.com/wuvershayne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/wuvershayne" height="30" width="40" /></a>
   <a href="https://leetcode.com/windowsm16a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/windowsm16a" height="30" width="40" /></a>
   <a href="https://medium.com/@wuvershayne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@wuvershayne" height="30" width="40" /></a>
-</p>
+</p><br>
 
 <h3 align="left">Languages and Tools:</h3>
   <p align="left">
@@ -40,16 +40,15 @@
     <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/refs/heads/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/refs/heads/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="xd" /></a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-  </p>
+  </p><br>
 
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=windowsm16a&layout=compact&count_private=true&hide_border=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&show_icons=true)](#)
 
 <p align="left">  
   <a href="http://www.github.com/WindowsM16a"><img src="https://github-readme-streak-stats.herokuapp.com/?user=WindowsM16a&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    
+    <br><br>
   <a href="http://www.github.com/WindowsM16a">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=WindowsM16a&bg_color=1c1917&color=3382ed&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" />
   </a>
 </p>
-<br>
 
