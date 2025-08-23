@@ -1,5 +1,5 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Shayne Wuver
-<h3 align="center">Unhealthily fixated on Web Development and Electronics and Engineering</h3>
+<h3 align="center">Unhealthily fixated on Web Development and Electronics and Engineering</h3> <br>
 
 - 🌱 I’m currently learning **Javascript**
 
