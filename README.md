@@ -10,7 +10,7 @@
       Hiii, I'm Shayne Wuver
   </span>
 </h1>
-<h3 align="center">Unhealthily fixated on <em>Engineering</em> and <em>Web Development</em> and <em>Electronics</em></h3> <br>
+<h3 align="center">Unhealthily fixated on <em>Engineering</em>, <em>Web Development</em> and <em>Electronics</em></h3> <br>
 
 - 🌱 I’m currently learning **Javascript**
 
