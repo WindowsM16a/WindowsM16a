@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **wuvershayne@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1IwgRC-4N4-t9n6gtXVBU1dOaZTtFFuXn/view?usp=sharing">here</a> 
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1h514EKLV2iUdLrXHUFjjUG-8NnWEHSGS/view?usp=sharing">here</a> 
 
 - ⚡ Fun fact I love **photography**, **cars**, and **sim-racing** (and **irl motorsports**) <br><br>
 
